@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Color Changer",
+    "name": "Tiktok Favorite Video Cleaner",
     "version": "1.0",
-    "description": "Change the color of an HTML element",
+    "description": "Tiktok Favorite Video Cleaner",
     "action": {
       "default_popup": "popup.html"
     },
@@ -11,4 +11,3 @@
       "scripting"
     ]
   }
-  
