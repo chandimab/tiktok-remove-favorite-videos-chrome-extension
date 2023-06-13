@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Color Changer",
+    "version": "1.0",
+    "description": "Change the color of an HTML element",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ]
+  }
+  
